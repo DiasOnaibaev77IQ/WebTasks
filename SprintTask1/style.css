@@ -1,0 +1,62 @@
+*{
+    height: auto;
+}
+.formal{
+    height: 100%;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+header{
+    display: flex;
+    color: white;
+    background-color: rgb(116, 10, 10);
+    width: 100%;
+    height: 6%;
+    margin-bottom: 20px;
+}
+
+#news{
+    padding: 13px;
+    margin-right: 70%;
+}
+
+#apps{
+    display: flex;
+}
+
+.app{
+    color: gray;
+    margin-right: 15px;
+}
+
+.mainNews{
+    display: flex;
+    background-color: rgb(126, 201, 176);
+    height: auto;
+}
+
+#text{
+    padding-left: 15px;
+    font-size: 17px;
+}
+
+#latestNews{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.news{
+    display: flex;
+}
+
+.zhanalyk{
+    border: 0.1px solid gray;
+    margin-right: 20px;
+}
+
+.des{
+    padding: 15px;
+}
